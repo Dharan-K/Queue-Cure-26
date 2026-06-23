@@ -1,6 +1,6 @@
-# 🏥 Life Clinic Management System
+# 🏥 Queue Cure Management System
 
-![Life Clinic Management System Banner](preview/logo.png)
+![Queue Cure Management System Banner](preview/logo.png)
 
 [![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-12.1.0-FFCA28?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
@@ -85,7 +85,7 @@ Deploy this application on Render to get a live URL.
 
 ## 📸 Application Preview
 
-Here's a comprehensive preview of all the key features and interfaces in the Life Clinic Management System:
+Here's a comprehensive preview of all the key features and interfaces in the Queue Cure Management System:
 
 | Feature | Preview |
 |:--------:|:-------:|
