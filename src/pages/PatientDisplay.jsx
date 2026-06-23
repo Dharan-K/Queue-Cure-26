@@ -28,7 +28,7 @@ export default function PatientDisplay() {
           </div>
           <div>
             <h1 className="text-2xl font-bold tracking-tight bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
-              Life Clinic Patient Display
+              Queue Cure Patient Display
             </h1>
             <p className="text-slate-400 text-sm">Please observe your token number</p>
           </div>

@@ -1,6 +1,6 @@
-# 📚 Life Clinic Management System - Technical Documentation
+# 📚 Queue Cure Management System - Technical Documentation
 
-> Comprehensive technical documentation for the Life Clinic Management System
+> Comprehensive technical documentation for the Queue Cure Management System
 
 ## 📋 Table of Contents
 
@@ -21,7 +21,7 @@
 
 ## 🏗️ System Overview
 
-The Life Clinic Management System is a full-stack web application built with modern web technologies. It provides comprehensive healthcare management capabilities including patient management, appointment scheduling, prescription management, billing, and role-based access control.
+The Queue Cure Management System is a full-stack web application built with modern web technologies. It provides comprehensive healthcare management capabilities including patient management, appointment scheduling, prescription management, billing, and role-based access control.
 
 ### Key Features
 - **Multi-role Authentication**: Doctor and Receptionist roles
@@ -66,7 +66,7 @@ The Life Clinic Management System is a full-stack web application built with mod
 ## 🚀 Installation & Setup Guide
 
 ### Prerequisites
-Before setting up the Life Clinic Management System, ensure you have the following:
+Before setting up the Queue Cure Management System, ensure you have the following:
 
 - **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
 - **npm** or **yarn** package manager
