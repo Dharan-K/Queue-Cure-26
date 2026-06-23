@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blue-900: #022c22; /* Deep forest green / emerald-950 background */
+  --color-blue-500: #10b981; /* Emerald-500 button primary */
+  --color-cyan-500: #22c55e; /* Green-500 button secondary */
+  --color-blue-400: #34d399; /* Emerald-400 active border / titles */
+  --color-cyan-400: #4ade80; /* Green-400 gradients */
+  --color-sky-500: #22c55e;  /* Green-500 background orbs */
+  --color-blue-600: #059669; /* Emerald-600 button hover */
+  --color-cyan-600: #16a34a; /* Green-600 button hover */
+}
+
+/* Custom animations and utilities */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+
+.animation-delay-1000 {
+  animation-delay: 1s;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.bg-radial-gradient {
+  background: radial-gradient(ellipse at center, var(--tw-gradient-stops));
+}
